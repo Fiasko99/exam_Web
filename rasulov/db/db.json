@@ -1,0 +1,92 @@
+{
+  "workers": [
+    {
+      "surname": "a",
+      "name": "a",
+      "patronymic": "a",
+      "id_department": 2,
+      "id": 1
+    },
+    {
+      "surname": "aefafasr",
+      "name": "argagar",
+      "patronymic": "garga",
+      "id_department": 4,
+      "id": 2
+    },
+    {
+      "surname": "sethseth",
+      "name": "aergazfxbvbet",
+      "patronymic": "rthtehseth",
+      "id_department": 2,
+      "id": 3
+    },
+    {
+      "surname": "awfawr",
+      "name": "argaerg",
+      "patronymic": "rgaergaerg",
+      "id_department": 4,
+      "id": 4
+    },
+    {
+      "surname": "aefafasr",
+      "name": "argagar",
+      "patronymic": "garga",
+      "id_department": 4,
+      "id": 5
+    },
+    {
+      "surname": "aefafasr",
+      "name": "argagar",
+      "patronymic": "garga",
+      "id_department": 4,
+      "id": 6
+    },
+    {
+      "surname": "g",
+      "name": "g",
+      "patronymic": "g",
+      "id_department": 2,
+      "id": 7
+    },
+    {
+      "surname": "h",
+      "name": "h",
+      "patronymic": "h",
+      "id_department": 3,
+      "id": 8
+    },
+    {
+      "surname": "awfawr",
+      "name": "argaerg",
+      "patronymic": "rgaergaerg",
+      "id_department": 4,
+      "id": 9
+    },
+    {
+      "surname": "sethseth",
+      "name": "aergazfxbvbet",
+      "patronymic": "rthtehseth",
+      "id_department": 2,
+      "id": 10
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "value": "юридический отдел"
+    },
+    {
+      "id": 2,
+      "value": "Отдел продаж"
+    },
+    {
+      "id": 3,
+      "value": "отдел доставки"
+    },
+    {
+      "id": 4,
+      "value": "IT отдел"
+    }
+  ]
+}
